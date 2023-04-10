@@ -2,3 +2,5 @@
 Working with the git version control system
 
 Добавили функцию
+
+Добавили еще одну функцию.
